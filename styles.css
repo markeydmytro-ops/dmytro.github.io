@@ -338,6 +338,9 @@ h2 {
 }
 .teamsheet dt { font-family: var(--cond); font-weight: 600; letter-spacing: .12em; text-transform: uppercase; font-size: 13px; color: var(--ink-3); padding-top: 3px; }
 .teamsheet dd { margin: 0; }
+.resume-link { margin-top: 28px; }
+.resume-link a { color: var(--pitch); border-bottom: 2px solid var(--card); padding-bottom: 2px; }
+.resume-link a:hover { color: var(--ink); }
 
 /* ---------- full time ---------- */
 .fulltime { padding-bottom: 0 !important; }
