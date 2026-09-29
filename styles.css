@@ -313,7 +313,7 @@ h2 {
 }
 
 /* ---------- match report ---------- */
-.entry + .entry { margin-top: 28px; padding-top: 28px; border-top: 1px solid var(--rule); }
+.entry + .entry { margin-top: 36px; padding-top: 36px; border-top: 2px solid var(--rule); }
 
 .entry .venue {
   font-family: var(--cond);
