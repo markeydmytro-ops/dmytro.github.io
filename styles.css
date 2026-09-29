@@ -313,6 +313,8 @@ h2 {
 }
 
 /* ---------- match report ---------- */
+.entry + .entry { margin-top: 28px; padding-top: 28px; border-top: 1px solid var(--rule); }
+
 .entry .venue {
   font-family: var(--cond);
   font-weight: 600;
